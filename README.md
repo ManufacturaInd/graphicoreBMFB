@@ -58,7 +58,7 @@ Now, you should find the following files in the `./generated` dir:
 If that works, you can build all fonts from all `.jsn` files in `./BMFonts/graphicoreBitmapFont/`.
 That will take a while.
 
-    $ ./start.sh
+    $ ./start.sh graphicoreBitmapFont
 
 
 Commandline Options
