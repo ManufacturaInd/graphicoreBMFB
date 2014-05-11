@@ -25,9 +25,11 @@ What You'll Need
 
 * **Python 2.6.5**. I import from the Python Standard Library:
 
+```python
     from __future__ import with_statement # backward compatibility
     import sys, os, re, codecs, math, json, random
     from optparse import OptionParser #in ./bmfb.py
+```
 
 * **FontForge** with Python bindings. 
 
