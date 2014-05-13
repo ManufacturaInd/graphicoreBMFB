@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-5-Medium"
+ }, 
+ "generator": {
+  "contextualShape": false, 
+  "insideCornerRadius": 0, 
+  "invertOutside": true, 
+  "offset": 0, 
+  "outsideCornerRadius": 0.28999999999999998, 
+  "width": 125
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 5", 
+  "fontname": "{{ file_name }}-5-Medium", 
+  "fullname": "{{ font_name }} 5 Medium", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Medium", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Medium"
+ }
+}

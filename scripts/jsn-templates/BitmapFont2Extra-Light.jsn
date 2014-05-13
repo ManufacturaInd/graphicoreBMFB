@@ -1,0 +1,34 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-2-Extra-Light"
+ }, 
+ "generator": {
+  "contextualShape": false, 
+  "insideCornerRadius": 0.5, 
+  "offset": 30, 
+  "outsideCornerRadius": 0, 
+  "width": 65
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 2", 
+  "fontname": "{{ file_name }}-2-Extra-Light", 
+  "fullname": "{{ font_name }} 2 Extra-Light", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Extra-Light", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Extra-Light"
+ }
+}

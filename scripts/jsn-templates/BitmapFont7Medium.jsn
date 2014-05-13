@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-7-Medium"
+ }, 
+ "generator": {
+  "contextualShape": true, 
+  "insideCornerRadius": 0.28999999999999998, 
+  "invertOutside": true, 
+  "offset": 0, 
+  "outsideCornerRadius": 0.28999999999999998, 
+  "width": 125
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 7", 
+  "fontname": "{{ file_name }}-7-Medium", 
+  "fullname": "{{ font_name }} 7 Medium", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Medium", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Medium"
+ }
+}

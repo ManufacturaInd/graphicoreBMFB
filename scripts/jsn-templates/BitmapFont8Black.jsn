@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-8-Black"
+ }, 
+ "generator": {
+  "contextualShape": true, 
+  "insideCornerRadius": 0.5, 
+  "invertOutside": true, 
+  "offset": -60, 
+  "outsideCornerRadius": 2, 
+  "width": 245
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 8", 
+  "fontname": "{{ file_name }}-8-Black", 
+  "fullname": "{{ font_name }} 8 Black", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Black", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Black"
+ }
+}

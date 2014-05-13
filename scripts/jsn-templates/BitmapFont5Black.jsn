@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-5-Black"
+ }, 
+ "generator": {
+  "contextualShape": false, 
+  "insideCornerRadius": 0, 
+  "invertOutside": false, 
+  "offset": -60, 
+  "outsideCornerRadius": 0, 
+  "width": 245
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 5", 
+  "fontname": "{{ file_name }}-5-Black", 
+  "fullname": "{{ font_name }} 5 Black", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Black", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Black"
+ }
+}

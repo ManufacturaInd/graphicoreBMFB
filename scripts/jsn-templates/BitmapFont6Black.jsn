@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-6-Black"
+ }, 
+ "generator": {
+  "contextualShape": false, 
+  "insideCornerRadius": 0, 
+  "invertOutside": true, 
+  "offset": -60, 
+  "outsideCornerRadius": 2, 
+  "width": 245
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 6", 
+  "fontname": "{{ file_name }}-6-Black", 
+  "fullname": "{{ font_name }} 6 Black", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Black", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Black"
+ }
+}

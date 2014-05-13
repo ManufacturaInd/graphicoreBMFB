@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-6-Demi-Bold"
+ }, 
+ "generator": {
+  "contextualShape": false, 
+  "insideCornerRadius": 0, 
+  "invertOutside": true, 
+  "offset": -15, 
+  "outsideCornerRadius": 0.5, 
+  "width": 155
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 6", 
+  "fontname": "{{ file_name }}-6-Demi-Bold", 
+  "fullname": "{{ font_name }} 6 Demi-Bold", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Demi-Bold", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Demi-Bold"
+ }
+}

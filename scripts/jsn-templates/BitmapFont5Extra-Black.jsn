@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-5-Extra-Black"
+ }, 
+ "generator": {
+  "contextualShape": false, 
+  "insideCornerRadius": 0, 
+  "invertOutside": false, 
+  "offset": -75, 
+  "outsideCornerRadius": 0, 
+  "width": 275
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 5", 
+  "fontname": "{{ file_name }}-5-Extra-Black", 
+  "fullname": "{{ font_name }} 5 Extra-Black", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Extra-Black", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Extra-Black"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-5-Bold"
+ }, 
+ "generator": {
+  "contextualShape": false, 
+  "insideCornerRadius": 0, 
+  "invertOutside": true, 
+  "offset": -30, 
+  "outsideCornerRadius": 0.28999999999999998, 
+  "width": 185
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 5", 
+  "fontname": "{{ file_name }}-5-Bold", 
+  "fullname": "{{ font_name }} 5 Bold", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Bold", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Bold"
+ }
+}

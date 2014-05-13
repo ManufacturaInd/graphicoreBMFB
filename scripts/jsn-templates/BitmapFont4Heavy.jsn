@@ -1,0 +1,34 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-4-Heavy"
+ }, 
+ "generator": {
+  "contextualShape": true, 
+  "insideCornerRadius": 0.5, 
+  "offset": -45, 
+  "outsideCornerRadius": 0, 
+  "width": 215
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 4", 
+  "fontname": "{{ file_name }}-4-Heavy", 
+  "fullname": "{{ font_name }} 4 Heavy", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Heavy", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Heavy"
+ }
+}

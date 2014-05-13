@@ -1,0 +1,35 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-8-Bold"
+ }, 
+ "generator": {
+  "contextualShape": true, 
+  "insideCornerRadius": 0.5, 
+  "invertOutside": true, 
+  "offset": -30, 
+  "outsideCornerRadius": 0.5, 
+  "width": 185
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 8", 
+  "fontname": "{{ file_name }}-8-Bold", 
+  "fullname": "{{ font_name }} 8 Bold", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Bold", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Bold"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "font": {
+  "fileName": "{{ file_name }}-3-Black"
+ }, 
+ "generator": {
+  "contextualShape": true, 
+  "insideCornerRadius": 0.28999999999999998, 
+  "offset": -60, 
+  "outsideCornerRadius": 0, 
+  "width": 245
+ }, 
+ "inherit": [
+  "./options/options.jsn"
+ ], 
+ "metadata": {
+  "familyname": "{{ font_name }} 3", 
+  "fontname": "{{ file_name }}-3-Black", 
+  "fullname": "{{ font_name }} 3 Black", 
+  "more": {
+   "English": {
+    "Descriptor": "{{ description }}", 
+    "Designer": "{{ designer_name }}", 
+    "Designer URL": "{{ designer_url }}", 
+    "License": "OFL", 
+    "License URL": "http://scripts.sil.org/OFL", 
+    "Manufacturer": "{{ manufacturer_name }}", 
+    "SubFamily": "Black", 
+    "Trademark": "{{ trademark_notice }}", 
+    "Vendor URL": "{{ vendor_url }}"
+   }
+  }, 
+  "weight": "Black"
+ }
+}
