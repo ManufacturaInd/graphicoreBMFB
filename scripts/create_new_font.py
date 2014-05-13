@@ -26,7 +26,7 @@ def generate_font(font_name, designer_name, designer_url, manufacturer_name, ven
 
     output_dir = context["file_name"]
     if os.path.exists(output_dir):
-        print "Directory %s exists, not going on."
+        click.echo("Directory %s exists, not going on.")
         sys.exit()
     os.mkdir(output_dir)
 
@@ -41,7 +41,7 @@ def generate_font(font_name, designer_name, designer_url, manufacturer_name, ven
         f.write(output)
         f.close()
 
-    print "Done! The license was automatically set to the Open Font License (OFL)."
+    click.echo("Done! The license was automatically set to the Open Font License (OFL).")
 
 if __name__ == "__main__":
     generate_font()
